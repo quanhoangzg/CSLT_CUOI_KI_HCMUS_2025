@@ -1,0 +1,5 @@
+P001|Laptop Dell XPS 13|Laptop|25000000|10
+P002|Chuot Logitech G102|Phu kien|450000|50
+P003|Ban phim co Akko|Phu kien|1250000.5|20
+P004|Man hinh LG 24 inch|Man hinh|3400000|15
+P005|Tai nghe Sony WH-1000XM5|Am thanh|6990000|5
