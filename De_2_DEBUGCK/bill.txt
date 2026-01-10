@@ -1,0 +1,5 @@
+Capuchino|2|45000
+MatchaLatte|1|40000
+TraSua|2|35000
+BacXiu|3|30000
+Capuchino|1|45000
